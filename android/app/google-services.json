@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454238079856",
+    "project_id": "barber-booker",
+    "storage_bucket": "barber-booker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454238079856:android:779209b2aa37894abb9db5",
+        "android_client_info": {
+          "package_name": "com.danielgebraiel.barber_booking_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454238079856-9tva3j5cegkd4iam7pk10gci7gpnseci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJMIjtYFKjlECj4iMYp4qEqkwMtQej7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454238079856-9tva3j5cegkd4iam7pk10gci7gpnseci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

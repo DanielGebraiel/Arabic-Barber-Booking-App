@@ -1,0 +1,32 @@
+name: barber_booking_flutter
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.8.4
+  firebase_auth: ^4.7.2
+  firebase_core: ^2.15.0
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.9
+  modal_progress_hud_nsn: ^0.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+  fonts:
+    - family: NotoSansArabic
+      fonts:
+       - asset: fonts/NotoSansArabic-Regular.ttf
+       - asset: fonts/NotoSansArabic-Bold.ttf
+       - asset: fonts/NotoSansArabic-SemiBold.ttf
