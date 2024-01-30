@@ -1,5 +1,5 @@
 
-# Barber Booking App
+# Arabic Barber Booking App
 
 This app's task is an attempt to eliminate long wait times at barber shops. It was designed with the Egyptian user in mind hence, making it available in Arabic. With a user-centered user experience and a simple but interactive UI, this app allows user to:
 
